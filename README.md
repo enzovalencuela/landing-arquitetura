@@ -27,7 +27,6 @@ O layout é organizado e focado na usabilidade. As seções da página incluem:
 ## 🖼️ Prévia
 
 ![screenshot do projeto](https://github.com/user-attachments/assets/89086acb-7320-4bf7-a2ce-b4a25981c6c6)
-*Adicione uma captura de tela da sua landing page.*
 
 ## 🚀 Como Executar o Projeto
 
