@@ -44,7 +44,7 @@ O layout é organizado e focado na usabilidade. As seções da página incluem:
 
 ## 🌐 Link do Projeto
 
-Você pode acessar a landing page [clicando aqui](https://arquitetura-landing.netlify.app).
+Você pode acessar a landing page [clicando aqui](https://enzovalencuela-landing-arquitetura.netlify.app/).
 
 ## 📊 Link da Planilha do Formulário
 
